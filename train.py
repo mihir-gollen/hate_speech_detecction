@@ -114,7 +114,7 @@ for epoch in range(EPOCHS):
 model.save_pretrained("saved_model/model")
 tokenizer.save_pretrained("saved_model/tokenizer")
 
-print("✅ Model and tokenizer saved locally.")
+print(" Model and tokenizer saved locally.")
 # -----------------------------
 # Evaluation
 # -----------------------------
