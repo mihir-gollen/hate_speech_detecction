@@ -4,3 +4,4 @@ streamlit
 pandas
 numpy
 scikit-learn
+praw
